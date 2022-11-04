@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/nogibjj/abzdel_project3/actions/workflows/docker-image.yml/badge.svg)](https://github.com/nogibjj/abzdel_project3/actions/workflows/docker-image.yml)
+
 # Containerized custom database
 
 ## Architectural Diagram
