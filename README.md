@@ -9,3 +9,7 @@
 - My main objective here is to build a **containerized, efficient script** that builds a database locally, establishes a connection with Python, and inserts outside data we found from Kaggle.
 - I also have a Jupyter notebook with various questions I wanted to answer regarding this data with queries to actually answer them.
 
+
+## Data used
+
+From https://www.kaggle.com/datasets/akshaydattatraykhare/data-for-admission-in-the-university
